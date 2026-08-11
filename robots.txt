@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-8p73g6.privatetalks.online/sitemap.xml
